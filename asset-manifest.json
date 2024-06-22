@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/form-three-survey/static/css/main.66be0e53.css",
-    "main.js": "/form-three-survey/static/js/main.8af7545f.js",
-    "static/js/453.1c580d6d.chunk.js": "/form-three-survey/static/js/453.1c580d6d.chunk.js",
-    "index.html": "/form-three-survey/index.html",
-    "main.66be0e53.css.map": "/form-three-survey/static/css/main.66be0e53.css.map",
-    "main.8af7545f.js.map": "/form-three-survey/static/js/main.8af7545f.js.map",
-    "453.1c580d6d.chunk.js.map": "/form-three-survey/static/js/453.1c580d6d.chunk.js.map"
+    "main.css": "/form-survey-three/static/css/main.66be0e53.css",
+    "main.js": "/form-survey-three/static/js/main.b3a14fa0.js",
+    "static/js/453.1c580d6d.chunk.js": "/form-survey-three/static/js/453.1c580d6d.chunk.js",
+    "index.html": "/form-survey-three/index.html",
+    "main.66be0e53.css.map": "/form-survey-three/static/css/main.66be0e53.css.map",
+    "main.b3a14fa0.js.map": "/form-survey-three/static/js/main.b3a14fa0.js.map",
+    "453.1c580d6d.chunk.js.map": "/form-survey-three/static/js/453.1c580d6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66be0e53.css",
-    "static/js/main.8af7545f.js"
+    "static/js/main.b3a14fa0.js"
   ]
 }
